@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PracticalTest01</string>
+    <string name="practicaltest01">PracticalTest01</string>
+    <string name="navigate_to_another_activity">Navigate to another activity</string>
+</resources>
